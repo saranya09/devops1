@@ -6,4 +6,3 @@ docker pull saranya9/simple-python-flask-app
 
 # Run the Docker image as a container
 docker run -d -p 8000:8000 saranya9/simple-python-flask-app
-
